@@ -1,8 +1,9 @@
 # 📌 ImageEmbedder: AI-Powered Object Embedding
+[![Open in Streamlit by Eesha Tariq](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://image-embedder-using-deeplearning.streamlit.app/)
+
 
 ## 🌟 Overview
 **ImageEmbedder** is a Streamlit-based web app that allows users to seamlessly embed objects into images using AI. It utilizes **CLIP (ViT-L/14) from Hugging Face** to intelligently determine the **best placement** for objects based on semantic similarity.
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://image-embedder-using-deeplearning.streamlit.app/)
 
 
 ## 🛠 Features
@@ -78,4 +79,4 @@ streamlit run app.py
 ## 📜 License
 This project is **open-source** under the MIT License.
 
-👨‍💻 Built with ❤️ by **Your Name**
+👨‍💻 Built with ❤️ by **Eesha Tariq** during Research Internship at **University of Sharjah**
